@@ -1,10 +1,10 @@
 cask "howlerops" do
-  version "0.0.2"
-  sha256 :no_check  # Will be auto-updated by release workflow
+  version "0.0.5-alpha.13"
+  sha256 "f805e754b1ff60a0903829fb93139d60ac374a33a11318ef4c1ebdb428a60383"
 
   url "https://github.com/jbeck018/howlerops/releases/download/v#{version}/howlerops-darwin-universal.zip"
   name "HowlerOps"
-  desc "Powerful SQL client with AI capabilities"
+  desc "A powerful desktop SQL client built with Wails"
   homepage "https://github.com/jbeck018/howlerops"
 
   livecheck do
