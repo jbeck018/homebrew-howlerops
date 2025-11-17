@@ -1,6 +1,6 @@
 cask "howlerops" do
-  version "0.0.5-alpha.16"
-  sha256 "c403a947ab8e4ddb1d3f8fb38b22890e60d9220f574a6e99f607370e440adb8b"
+  version "0.0.5-alpha.17"
+  sha256 "d305469e961092f052c600517f455e34cd4d249614905e8c559e06145f5ed7d8"
 
   url "https://github.com/jbeck018/howlerops/releases/download/v#{version}/howlerops-darwin-universal.zip"
   name "HowlerOps"
