@@ -1,10 +1,10 @@
 cask "howlerops" do
-  version "0.5.0"
-  sha256 "0eaf2dadc5ca941acdc5c5056c467f326e944c276186844a66880bdd1b28b7eb"
+  version "0.7.17"
+  sha256 "9f174fbf16b5093300d1b43cbc29385c73885f4df12f3b867c04dabf41af4202"
 
-  url "https://github.com/jbeck018/howlerops/releases/download/v#{version}/howlerops-darwin-universal.zip"
+  url "https://github.com/jbeck018/howlerops/releases/download/v#{version}/howlerops-darwin-universal.tar.gz"
   name "HowlerOps"
-  desc "A powerful desktop SQL client built with Wails"
+  desc "Powerful SQL client with AI capabilities"
   homepage "https://github.com/jbeck018/howlerops"
 
   livecheck do
